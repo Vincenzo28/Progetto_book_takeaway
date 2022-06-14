@@ -1,0 +1,40 @@
+.container{
+    height: 30vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-image: url(https://images.pexels.com/photos/590493/pexels-photo-590493.jpeg?auto=compress&cs=tinysrgb&h=750&w=1260);
+}
+
+.container h2{
+    color: white;
+    font-weight: 500;
+    background: rgba(255, 77, 0, 0.7);
+    width: 150px;
+    padding: 10px;
+    border-radius: 40px;
+    border: 1px solid black;
+}
+
+input{
+    height: 50px;
+    border-radius: 20px;
+    border: none;
+    padding-left: 20px;
+    font-size: 1.4rem;
+    width: 100%;
+}
+
+.bar{
+    display: flex;
+}
+
+button{
+    margin-left: 10px;
+    border-radius: 8px;
+    border: none;
+    background: rgb(255, 77, 0);
+}
+

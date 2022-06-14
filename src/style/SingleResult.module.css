@@ -1,0 +1,13 @@
+.container{
+    width: 200px;
+    height: 300px;
+    border: 2px solid black ; 
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.container p{
+    text-decoration: none;
+}
+

@@ -1,0 +1,22 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 30px;
+    background: linear-gradient(red, orange);
+    color: white;
+    padding: 20px;
+}
+
+.rightContainer{
+    display: flex;
+    align-items: center;
+}
+
+.circlePlus:hover{
+    cursor: pointer;
+}
+
+p:hover{
+    cursor: pointer;
+}

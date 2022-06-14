@@ -1,0 +1,18 @@
+.container{
+    padding: 50px;
+}
+
+.infoContainer{
+    display: flex;
+}
+
+.image{
+    width: 300px;
+    height: 400px;
+}
+.chapterContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
